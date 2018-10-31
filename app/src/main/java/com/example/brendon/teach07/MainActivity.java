@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //This is a useless function
         //This is some more useless code
         //This should mess up the merge
+        //No my line is going here
     }
 
 }
