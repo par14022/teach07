@@ -2,6 +2,7 @@ package com.example.brendon.teach07;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
     private void uselessFunction() {
         //This is a useless function
     }
+
 }
