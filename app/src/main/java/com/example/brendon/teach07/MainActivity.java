@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private void uselessFunction() {
         //This is a useless function
         //This is some more useless code
+        //This is another line of commenting 
     }
 
 }
